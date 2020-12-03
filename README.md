@@ -8,6 +8,7 @@ This is an example to learn how to use Git and GitHub
 ## Purpose
 Sample website with plenty of files for demos
 ## Deployment
+with more changes
 ## How To Contribute
 Fork this repository
 ### Copyright
